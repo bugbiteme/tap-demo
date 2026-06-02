@@ -1,3 +1,4 @@
 .vscode
 .camel-jbang
 .ansible
+env.sh
